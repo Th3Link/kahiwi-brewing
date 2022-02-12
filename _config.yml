@@ -18,9 +18,9 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Marcs Blog                     # the main title
+title: Kahiwi Brewing                     # the main title
 
-tagline: Embedded Software, Home Automation and Elecrotnics   # it will display as the sub-title
+tagline: Fresh and delicious home-made beer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -33,18 +33,18 @@ url: 'https://luehr.dev'
 github:
   username: th3link             # change to your github username
 
-twitter:
-  username: th3link             # change to your twitter username
+#twitter:
+#  username: th3link             # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Marc Lühr
-  email: marc@luehr.org             # change to your email address
+  name: Kahiwi Brewing
+  email: brewing@kahiwi.de             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/th3link      # change to your twitter homepage
-    - https://github.com/th3link       # change to your github homepage
+    #- https://twitter.com/th3link      # change to your twitter homepage
+    #- https://github.com/th3link       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -72,7 +72,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark  # [light|dark]
+theme_mode: light  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
